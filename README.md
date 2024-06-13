@@ -1,5 +1,5 @@
 # Pyme
-*Now deployed on:* https://pyme-rouge.vercel.app/
+*Now deployed on:* https://pyme-rouge.vercel.app/ 
 
 Pyme is a multi-store e-commerce store front designed to support small and local businesses. Designed and built with a team of 3 developers, Pyme (short for Pequeña y mediana empresa) was inspired by the Colombian heritage and small business ownership experience of Valentina Valverde, a developer on the team. Built with Next.js and Mongo DB, this full-stack application uses Typescript for its coding language, Clerk.js for login and Stripe for payment.
 
